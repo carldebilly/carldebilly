@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://github-readme-stats.vercel.app/api?username=carldebilly&count_private=true&show_icons=true)
+
+* <a rel="me" href="https://dotnet.social/@carldebilly">Mastodon</a>
+* <a ref="me" href="https://twitter.com/carldebilly">Twitter</a>
+* <a ref="me" href="http://carl.debilly.net/">Blog</a>
