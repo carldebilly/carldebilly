@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 ![](https://github-readme-stats.vercel.app/api?username=carldebilly&count_private=true&show_icons=true)
 
-* <a rel="me" href="https://dotnet.social/@carldebilly">Mastodon</a>
+* <a rel="me" href="https://bsky.app/profile/carl.debilly.net">Bluesky</a>
 * <a ref="me" href="https://twitter.com/carldebilly">Twitter</a>
 * <a ref="me" href="http://carl.debilly.net/">Blog</a>
