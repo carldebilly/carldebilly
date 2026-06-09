@@ -1,5 +1,7 @@
 # Carl de Billy
 
+Don't forget to check my Yllibed Project! Take a tour for my [REPL Project](https://repl.yllibed.org/), a CLI/REPL/MCP toolkit for dotnet.
+
 <!--
 **carldebilly/carldebilly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
