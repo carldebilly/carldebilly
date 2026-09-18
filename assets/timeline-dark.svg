@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 133" width="700" height="133" role="img" aria-label="Networking · TCP/IP · Clarion · Win32 · C · Telephony · VoIP · SIP · .NET · C# — from Framework 1.0 to today · Mono · ASP.NET · web platforms · SaaS · XAML — WPF · UWP · WinUI · Uno · GPU · Azure · AWS · DevOps · CI/CD · Mobile — iOS · Android · WebAssembly · Roslyn · AI agents">
+	<title>Thirty-five years of overlapping technology</title>
+	<desc>Networking · TCP/IP · Clarion · Win32 · C · Telephony · VoIP · SIP · .NET · C# — from Framework 1.0 to today · Mono · ASP.NET · web platforms · SaaS · XAML — WPF · UWP · WinUI · Uno · GPU · Azure · AWS · DevOps · CI/CD · Mobile — iOS · Android · WebAssembly · Roslyn · AI agents</desc>
+	<style>
+		.tl-label { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 8.6px; font-weight: 700; letter-spacing: 0.04em; }
+		.tl-axis text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 7.6px; fill: #8b8b96; }
+	</style>
+	<g>
+		<rect x="0" y="0" width="700" height="16" rx="3" fill="#22222c" />
+		<rect x="0" y="20" width="700" height="16" rx="3" fill="#22222c" />
+		<rect x="0" y="40" width="700" height="16" rx="3" fill="#22222c" />
+		<rect x="0" y="60" width="700" height="16" rx="3" fill="#22222c" />
+		<rect x="0" y="80" width="700" height="16" rx="3" fill="#22222c" />
+		<rect x="0" y="100" width="700" height="16" rx="3" fill="#22222c" />
+	</g>
+	<g>
+		<line x1="18.91891891891892" y1="0" x2="18.91891891891892" y2="116" stroke="#31313d" stroke-width="0.6" />
+		<line x1="113.51351351351352" y1="0" x2="113.51351351351352" y2="116" stroke="#31313d" stroke-width="0.6" />
+		<line x1="208.10810810810813" y1="0" x2="208.10810810810813" y2="116" stroke="#31313d" stroke-width="0.6" />
+		<line x1="302.7027027027027" y1="0" x2="302.7027027027027" y2="116" stroke="#31313d" stroke-width="0.6" />
+		<line x1="397.2972972972973" y1="0" x2="397.2972972972973" y2="116" stroke="#31313d" stroke-width="0.6" />
+		<line x1="491.89189189189193" y1="0" x2="491.89189189189193" y2="116" stroke="#31313d" stroke-width="0.6" />
+		<line x1="586.4864864864865" y1="0" x2="586.4864864864865" y2="116" stroke="#31313d" stroke-width="0.6" />
+		<line x1="681.0810810810812" y1="0" x2="681.0810810810812" y2="116" stroke="#31313d" stroke-width="0.6" />
+	</g>
+		<g>
+			<rect x="0.00" y="0" width="227.03" height="16" rx="3" fill="#f4511e" />
+			<text class="tl-label" x="8.00" y="8" text-anchor="start" dominant-baseline="central" fill="#ffffff">NETWORKING · TCP/IP</text>
+		</g>
+		<g>
+			<rect x="227.03" y="0" width="472.97" height="16" rx="3" fill="#5b2be8" />
+			<text class="tl-label" x="235.03" y="8" text-anchor="start" dominant-baseline="central" fill="#ffffff">.NET · C# — FROM FRAMEWORK 1.0 TO TODAY</text>
+		</g>
+		<g>
+			<rect x="0.00" y="20" width="264.86" height="16" rx="3" fill="#f4511e" />
+			<text class="tl-label" x="8.00" y="28" text-anchor="start" dominant-baseline="central" fill="#ffffff">CLARION · WIN32 · C</text>
+		</g>
+		<g>
+			<rect x="283.78" y="20" width="37.84" height="16" rx="3" fill="#00a388" />
+			<text class="tl-label" x="291.78" y="28" text-anchor="start" dominant-baseline="central" fill="#ffffff">MONO</text>
+		</g>
+		<g>
+			<rect x="321.62" y="20" width="378.38" height="16" rx="3" fill="#00a388" />
+			<text class="tl-label" x="329.62" y="28" text-anchor="start" dominant-baseline="central" fill="#ffffff">XAML — WPF · UWP · WINUI · UNO</text>
+		</g>
+		<g>
+			<rect x="132.43" y="40" width="151.35" height="16" rx="3" fill="#f4511e" />
+			<text class="tl-label" x="140.43" y="48" text-anchor="start" dominant-baseline="central" fill="#ffffff">TELEPHONY · VOIP · SIP</text>
+		</g>
+		<g>
+			<rect x="283.78" y="40" width="245.95" height="16" rx="3" fill="#00a388" />
+			<text class="tl-label" x="291.78" y="48" text-anchor="start" dominant-baseline="central" fill="#ffffff">ASP.NET · WEB PLATFORMS</text>
+		</g>
+		<g>
+			<rect x="548.65" y="40" width="151.35" height="16" rx="3" fill="#e91e63" />
+			<text class="tl-label" x="556.65" y="48" text-anchor="start" dominant-baseline="central" fill="#ffffff">WEBASSEMBLY</text>
+		</g>
+		<g>
+			<rect x="283.78" y="60" width="37.84" height="16" rx="3" fill="#5b2be8" />
+			<text class="tl-label" x="291.78" y="68" text-anchor="start" dominant-baseline="central" fill="#ffffff">SAAS</text>
+		</g>
+		<g>
+			<rect x="359.46" y="60" width="37.84" height="16" rx="3" fill="#00a388" />
+			<text class="tl-label" x="367.46" y="68" text-anchor="start" dominant-baseline="central" fill="#ffffff">GPU</text>
+		</g>
+		<g>
+			<rect x="397.30" y="60" width="302.70" height="16" rx="3" fill="#5b2be8" />
+			<text class="tl-label" x="405.30" y="68" text-anchor="start" dominant-baseline="central" fill="#ffffff">AZURE · AWS · DEVOPS · CI/CD</text>
+		</g>
+		<g>
+			<rect x="397.30" y="80" width="151.35" height="16" rx="3" fill="#e91e63" />
+			<text class="tl-label" x="405.30" y="88" text-anchor="start" dominant-baseline="central" fill="#ffffff">MOBILE — IOS · ANDROID</text>
+		</g>
+		<g>
+			<rect x="548.65" y="80" width="151.35" height="16" rx="3" fill="#d5d1c8" />
+			<text class="tl-label" x="556.65" y="88" text-anchor="start" dominant-baseline="central" fill="#1a1a24">ROSLYN</text>
+		</g>
+		<g>
+			<rect x="643.24" y="100" width="56.76" height="16" rx="3" fill="#c6f03c" />
+			<text class="tl-label" x="647.24" y="108" text-anchor="start" dominant-baseline="central" fill="#1a1a24">AI AGENTS</text>
+		</g>
+	<g class="tl-axis">
+		<text x="18.92" y="129" text-anchor="middle">1990</text>
+		<text x="113.51" y="129" text-anchor="middle">1995</text>
+		<text x="208.11" y="129" text-anchor="middle">2000</text>
+		<text x="302.70" y="129" text-anchor="middle">2005</text>
+		<text x="397.30" y="129" text-anchor="middle">2010</text>
+		<text x="491.89" y="129" text-anchor="middle">2015</text>
+		<text x="586.49" y="129" text-anchor="middle">2020</text>
+		<text x="681.08" y="129" text-anchor="middle">2025</text>
+	</g>
+</svg>
